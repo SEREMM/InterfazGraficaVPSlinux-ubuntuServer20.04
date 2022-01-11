@@ -8,4 +8,7 @@ El otro contiene los pasos a seguir para instalar WINE y utilizar programas de M
 La carpeta contiene las capturas de pantalla que se encuentran en los documentos de texto.
 
 Le reservo los derechos a los terceros de quienes imagenes y contenido comparto, haciendo saber su procedencia y autoría.
-![Captura de pantalla 2022-01-09 132549](https://user-images.githubusercontent.com/71859483/148989341-10010095-9856-4e38-8ca4-09ae99abe0ee.png)
+
+![Captura de pantalla 2022-01-09 133100](https://user-images.githubusercontent.com/71859483/148989497-7b4304bf-e668-4c8f-801a-85ca15af9d9b.png)
+
+![Captura de pantalla 2022-01-09 133012](https://user-images.githubusercontent.com/71859483/148989601-e37aa3a9-768d-4a08-b6e5-1aeeb51e0515.png)
