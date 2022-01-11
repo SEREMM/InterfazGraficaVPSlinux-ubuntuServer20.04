@@ -9,7 +9,7 @@ La carpeta contiene las capturas de pantalla que se encuentran en los documentos
 
 Le reservo los derechos a los terceros de quienes imagenes y contenido comparto, haciendo saber su procedencia y autoría.
 
---IMAGENES:
+--IMÁGENES:
 ![Captura de pantalla 2022-01-09 134740](https://user-images.githubusercontent.com/71859483/148990372-92a839b9-62c7-41e5-a07c-6a729610e491.png)
 
 --INTERFAZ GRÁFICA:
